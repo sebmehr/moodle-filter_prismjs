@@ -15,6 +15,8 @@ This filter allows you to highlight code snippets inside your Moodle courses, in
 * 2017 Sébastien Mehr, University of French Polynesia, Elearning service
 * License http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
+This is a beta version, do not use in production mode.
+
 ## Installation ##
 
 If you are uploading prismJS filter, first expand the zip file and upload the prismjs folder into:
