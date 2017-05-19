@@ -74,7 +74,7 @@ PrismJS officially supports 122 languages. In order to keep a lightweight filter
 
 ## Highlight markup languages ##
 
-Because Atto editor interprets Markup languages in HTML Mode, just copy/paste your Markup code between [[code]] or [[markup]] tags directly into Atto without switching to HTML Mode. The filter will handle jumping lines by replacing generated Atto <br> tags with a line feed character.
+Because Atto editor interprets Markup languages in HTML Mode, just copy/paste your Markup code between [[code]] or [[markup]] tags directly into Atto without switching to HTML Mode. The filter will handle jumping lines by replacing generated Atto br tags with a line feed character.
 
 ## Add languages ##
 
